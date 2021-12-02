@@ -1,6 +1,3 @@
-require:
-  - rubocop-performance
-  - rubocop-rails
 
 Metrics/AbcSize:
   Max: 30
@@ -62,4 +59,7 @@ Layout/FirstArrayElementIndentation:
   Enabled: false
 
 Layout/FirstHashElementIndentation:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
   Enabled: false
