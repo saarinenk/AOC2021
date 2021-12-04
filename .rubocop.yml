@@ -63,3 +63,18 @@ Layout/FirstHashElementIndentation:
 
 Style/FrozenStringLiteralComment:
   Enabled: false
+
+AllCops:
+  EnabledByDefault: true
+
+Style/Copyright:
+  Enabled: false
+
+Style/DocumentationMethod:
+  Enabled: false
+
+Style/MissingElse:
+  Enabled: false
+
+Style/AutoResourceCleanup:
+  Enabled: false
